@@ -29,4 +29,5 @@
 
 4.	Modular Coding for Components folder,<br />
 &ensp;a.	Data Ingestion
-
+&ensp;b.	Data Transformation 
+&ensp;c.	Model Trainer
