@@ -25,4 +25,6 @@
 &emsp;&emsp;3.	__init__.py<br />
 &ensp;iii.	Create exception, logger and utils files<br />
 
+3.	Work on creating EDA and FE documents to better understand the data<br />
+
 
