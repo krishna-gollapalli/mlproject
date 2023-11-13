@@ -1,4 +1,4 @@
-End-To-End ML Project Deployment
+##End-To-End ML Project Deployment
     1.	Setup the github -Repo
         a.	Create a new github repo
         b.	Create a new environment using terminal 
