@@ -1,17 +1,15 @@
 ##End-To-End ML Project Deployment <br />
-    <dl>
-    <dt> 1.	Setup the github -Repo <br /> </dt>
-        *a.	Create a new github repo <br />
-        *b.	Create a new environment using terminal <br />
-        *c.	Clone github repo <br />
-            ++i.	Add Readme <br />
-            ++ii.	Create gitignore <br />
-        *d.	Setup.py <br />
-            ++i.	Add setup descriptions <br />
-            ++ii.	Add ‘src’ folder in the project env to store entire project development! <br />
-            ++iii.	Create get_requirements() function definition <br />
-            ++iv.	Pip install -r requirements.txt in terminal\
-        *e.	Requirements.txt
+    &nbsp; 1.	Setup the github -Repo <br />
+        &nbsp;   *a.	Create a new github repo <br />
+    &ensp;    *b.	Create a new environment using terminal <br />
+    &ensp;    *c.	Clone github repo <br />
+            &nbsp;++i.	Add Readme <br />
+            &nbsp;++ii.	Create gitignore <br />
+    &ensp;    *d.	Setup.py <br />
+            &nbsp;++i.	Add setup descriptions <br />
+            &nbsp;++ii.	Add ‘src’ folder in the project env to store entire project development! <br />
+            &nbsp;++iii.	Create get_requirements() function definition <br />
+            &nbsp;++iv.	Pip install -r requirements.txt in terminal\
+     &ensp;   *e.	Requirements.txt
 
-    </dl>
 
