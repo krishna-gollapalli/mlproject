@@ -1,5 +1,6 @@
 ##End-To-End ML Project Deployment <br />
-    1.	Setup the github -Repo <br />
+    <dl>
+    <dt> 1.	Setup the github -Repo <br /> </dt>
         *a.	Create a new github repo <br />
         *b.	Create a new environment using terminal <br />
         *c.	Clone github repo <br />
@@ -11,4 +12,6 @@
             ++iii.	Create get_requirements() function definition <br />
             ++iv.	Pip install -r requirements.txt in terminal\
         *e.	Requirements.txt
+
+    </dl>
 
